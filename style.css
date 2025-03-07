@@ -8,7 +8,6 @@ body {
     font-family: Arial, sans-serif;
     background: linear-gradient(to right, #e0d6e3, #34243a);
 
-
 }
 
 .navbar {
@@ -61,6 +60,7 @@ body {
     display: none;
     font-size: 1.5rem;
     cursor: pointer;
+    /* Pointer */
 }
 
 .mobile-menu {
@@ -70,7 +70,6 @@ body {
     top: 60px;
     right: 20px;
     background-color: rgba(52, 36, 58, 0.959);
-
     width: 200px;
     padding: 10px;
     border-radius: 5px;
